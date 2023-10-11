@@ -1,5 +1,6 @@
 project:
   title: "FoundationAndSpace"
+  output-dir: docs
 
 editor: visual
 
