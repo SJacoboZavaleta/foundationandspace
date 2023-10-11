@@ -4,7 +4,7 @@ author: "Sergio Jacobo and Walter Zavaleta"
 institute: "Universidad Nacional de Trujillo"
 format: 
   revealjs:
-    #incremental: true
+    incremental: true
     #logo: 
     #footer:
     slide-number: true
